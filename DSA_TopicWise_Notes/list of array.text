@@ -1,0 +1,38 @@
+1] Accessing Elements:[] or array[index]: Access an element at a specific index.
+length or size(): Get the length or size of the array.
+
+2] Modifying Array:
+push(element) or append(element): Add an element to the end of the array.
+pop(): Remove and return the last element of the array.
+unshift(element): Add an element to the beginning of the array.
+shift(): Remove and return the first element of the array.
+splice(index, count, elements): Remove or replace elements at a specific index.
+concat(array): Concatenate two arrays.
+
+3] Searching and Filtering:
+indexOf(element): Find the index of a specific element.
+lastIndexOf(element): Find the last index of a specific element.
+includes(element): Check if the array contains a specific element.
+find(callback): Find the first element that satisfies the callback function.
+filter(callback): Create a new array with all elements that satisfy the callback function.
+
+4] Iterating over Array:
+forEach(callback): Execute a callback function for each element in the array.
+map(callback): Create a new array by applying the callback function to each element.
+reduce(callback, initialValue): Reduce the array to a single value using the callback function.
+every(callback): Check if all elements satisfy the callback function.
+some(callback): Check if at least one element satisfies the callback function.
+
+5] Sorting and Manipulating:
+sort(compareFunction): Sort the elements of the array (optionally with a custom comparison function).
+reverse(): Reverse the order of the elements in the array.
+slice(start, end): Extract a section of the array.
+fill(value, start, end): Fill the array with a static value.
+
+6] Conversion:
+toString(): Convert the array to a string.
+join(separator): Join all elements into a string with a separator.
+
+7] Copying and Cloning:
+slice(): Create a shallow copy of the array.
+concat(): Concatenate multiple arrays, creating a new array.

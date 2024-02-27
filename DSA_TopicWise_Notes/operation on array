@@ -1,0 +1,20 @@
+1] Accessing Elements: Accessing individual elements in the array using index notation.
+2] Insertion: Adding new elements to the array.
+3] eletion: Removing elements from the array.
+4] Traversal: Iterating through all elements of the array.
+5] Searching: Finding the index or presence of a specific element in the array.
+6] Sorting: Arranging the elements of the array in a specific order.
+7] Merging: Combining two or more arrays into one.
+8] Splitting: Dividing an array into smaller arrays.
+9] Concatenation: Combining two arrays into a single array.
+10] Copying: Creating a duplicate copy of an array.
+11] Equality Checking: Comparing two arrays to check if they have the same elements.
+12] Slicing: Extracting a subset of elements from the array.
+13] Filtering: Selecting elements from the array based on a condition.
+14] Mapping/Transforming: Applying a function to each element of the array to produce a new array.
+15] Reducing/Accumulating: Combining all elements of the array into a single value (e.g., sum, product, maximum, minimum).
+16] Shuffling: Randomly rearranging the elements of the array.
+17] Reversing: Inverting the order of elements in the array.
+18] Resizing/Reshaping: Changing the size or shape of the array.
+19] Initialization: Creating an array and assigning initial values to its elements.
+20] Filling: Assigning a specific value to all elements of the array.
