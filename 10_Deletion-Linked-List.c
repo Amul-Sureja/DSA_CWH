@@ -58,7 +58,7 @@ struct Node *deleteAtLast(struct Node *head)
 }
 
 // Case 4: Deleting the element with a given value from the linked list
-struct Node * deleteAtIndex(struct Node *head, int value)
+struct Node * deleteAtIndexValue(struct Node *head, int value)
 {
     struct Node *p = head;
     struct Node *q = head->next;
@@ -110,6 +110,7 @@ int main()
 
     // head = deleteFirst(head); // For deleting first element of the linked list
     // head = deleteAtIndex(head, 2);
+    // head = deleteAtIndexValue(head, 2);
     head = deleteAtLast(head);
     printf("Linked list after deletion\n");
     linkedListTraversal(head);
