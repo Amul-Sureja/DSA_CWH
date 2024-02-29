@@ -81,7 +81,7 @@ int main()
     top = push(top, 7);
     top = push(top, 8); 
 
-    // linkedListTraversal(top);
+    linkedListTraversal(top);
 
     int element = pop(top);
     printf("Popped element is %d\n", element);
