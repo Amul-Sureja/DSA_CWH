@@ -45,7 +45,7 @@ void push(struct stack *ptr, int val)
     }
 }
 
-int pop(struct stack *ptr)
+int pop(struct stack *ptr) 
 {
     if (isEmpty(ptr))
     {
@@ -81,8 +81,9 @@ int main()
     push(sp, 46);
     push(sp, 89);
     push(sp, 6); // ---> Push end 10 values
-    // push(sp, 46); // Stack Overflow since the size of the stack is 10
-
+    push(sp, 46); // Stack Overflow since the size of the stack is 10
+    push(sp, 100); // Stack Overflow since the size of the stack is 10
+ 
     printf("After pushing, Full: %d\n", isFull(sp));
     printf("After pushing, Empty: %d\n", isEmpty(sp));
 
