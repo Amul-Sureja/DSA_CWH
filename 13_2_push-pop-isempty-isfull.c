@@ -64,7 +64,7 @@ int main()
 {
     struct stack *sp = (struct stack *)malloc(sizeof(struct stack));
     sp->size = 10;
-    sp->top = -1;
+    sp->top = -1; 
     sp->arr = (int *)malloc(sp->size * sizeof(int));
     printf("Stack has been created successfully\n");
 
@@ -80,9 +80,9 @@ int main()
     push(sp, 57);
     push(sp, 46);
     push(sp, 89);
-    push(sp, 6); // ---> Pushed 10 values
-    // push(sp, 46); // Stack Overflow since the size of the stack is 10 
-    
+    push(sp, 6); // ---> Push end 10 values
+    // push(sp, 46); // Stack Overflow since the size of the stack is 10
+
     printf("After pushing, Full: %d\n", isFull(sp));
     printf("After pushing, Empty: %d\n", isEmpty(sp));
 
