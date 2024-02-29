@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <stdbool.h> // Added for bool type
 
 #define MAX_SIZE 100
 
@@ -37,6 +38,12 @@ char pop(struct Stack *stack)
     if (!isEmpty(stack))
         return stack->array[stack->top--];
     return '$';
+}
+
+// Function to check if a character is an operand or not
+bool isOperand(char ch)
+{
+    return (ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z');
 }
 
 void postfixToInfix(char *postfix, char *infix)
