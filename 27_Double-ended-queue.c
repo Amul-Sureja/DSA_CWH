@@ -1,3 +1,6 @@
+// insertion from rear+frount
+// deletion from rear+frount
+
 // enqueueF()
 // enqueueR()
 // dequeueF()
