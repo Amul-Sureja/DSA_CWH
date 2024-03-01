@@ -1,10 +1,25 @@
-// insertion from rear+frount
-// deletion from rear+frount
+// insertion from rear+front
+// deletion from rear+front
 
+// operation any 
 // enqueueF()
 // enqueueR()
 // dequeueF()
 // dequeueR()
+// isEmpty() == Returns true if the deque is empty, false otherwise.
+// isFull() == Returns true if the deque is full, false otherwise.
+// Insertion  == InsertFront(): or PushFront(): Inserts an element at the front of the deque.
+//               InsertRear(): or PushBack(): Inserts an element at the rear of the deque.
+// deletion   == DeleteFront(): or PopFront(): Deletes and returns the element at the front of the deque.
+//               DeleteRear(): or PopBack(): Deletes and returns the element at the rear of the deque.
+// Peek == GetFront(): : Returns the element at the front of the deque without deleting it.
+//         GetRear(): : Returns the element at the rear of the deque without deleting it.
+// Size() == Returns the number of elements in the deque.
+// Clear() == Deletes all elements from the deque.
+
+// ==> DEQueues are of two types :
+// Restricted Input DEQueue == not allowed insertion from front
+// Restricted Output DEQueue == not allowed deletaion from rear
 
 #include <stdio.h>
 #define size 5
