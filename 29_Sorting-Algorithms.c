@@ -33,6 +33,51 @@
 // 28] 3-way Merge Sort
 
 
+// Bubble Sort
+// Selection Sort
+// Insertion Sort
+// Merge Sort
+// Quick Sort
+// Heap Sort
+// Counting Sort
+// Radix Sort
+// Bucket Sort
+// Shell Sort
+// Cocktail Shaker Sort (Bidirectional Bubble Sort)
+// Comb Sort
+// Gnome Sort
+// Odd-Even Sort
+// Cycle Sort
+// Pancake Sort
+// Stooge Sort
+// Bogosort (Permutation Sort)
+// Batcher's Odd-Even Mergesort
+// Bitonic Sort
+// Patience Sorting
+// Bead Sort (Gravity Sort)
+// BogoSort (Stupid Sort)
+// Brick Sort
+// Binary Tree Sort
+// Burst Sort
+// Circle Sort
+// Coctail Sort
+// Flash Sort
+// Library Sort
+// TimSort
+// Strand Sort
+// Shear Sort
+// Smooth Sort
+// Spreadsort
+// Spaghetti Sort
+// Introsort
+// In-Place Merge Sort
+// Tournament Sort
+// Optimized Gnome Sort
+// Block Sort
+// Cube Sort
+// American Flag Sort
+
+
 // Library Implementations:
 // 1] Introsort – C++’s Sorting Weapon
 // 2] Comparator function of qsort() in C
