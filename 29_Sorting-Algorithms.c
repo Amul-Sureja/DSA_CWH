@@ -2,7 +2,7 @@
 // 1] Sorting in ascending order.
 // 2] Sorting in descending order.
 
-// type of sorting algorithma
+// sorting algorithma
 // 1] Bubble sort
 // 2] Bucket sort
 // 3] Comb sort
