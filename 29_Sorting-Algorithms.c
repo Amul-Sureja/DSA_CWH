@@ -33,6 +33,14 @@
 // 3-way Merge Sort
 
 
+// We will discuss each of the below-mentioned criteria in detail:
+// Time Complexity
+// Space Complexity
+// Stability
+// Internal & External Sorting Algorithms
+// Adaptivity
+// Recursiveness
+
 // Library Implementations:
 // 1] Introsort – C++’s Sorting Weapon
 // 2] Comparator function of qsort() in C
