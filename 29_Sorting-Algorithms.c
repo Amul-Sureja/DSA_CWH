@@ -3,79 +3,7 @@
 // 2] Sorting in descending order.
 
 // sorting algorithma
-// 1] Bubble sort
-// 2] Bucket sort
-// 3] Comb sort
-// 4] Counting sort
-// 5] Heap sort
-// 6] Insertion sort
-// 7] Merge sort
-// 8] Quick sort
-// 9] Radix sort
-// 10] Selection sort
-// 11] Shell sort
-// 12] Bitonic sort
-// 13] Cocktail sort
-// 14] Cycle sort
-// 15] Tim sort
-// 16] Bingo Sort Algorithm
-// 17] Pigeonhole Sort
-// 18] Strand Sort
-// 19] Pancake sorting
-// 20] BogoSort or Permutation Sort
-// 21] Gnome Sort
-// 22] Sleep Sort – The King of Laziness
-// 23] Structure Sorting in C++
-// 24] Stooge Sort
-// 25] Tag Sort (To get both sorted and original)
-// 26] Tree Sort
-// 27] Odd-Even Sort / Brick Sort
-// 28] 3-way Merge Sort
 
-
-// Bubble Sort
-// Selection Sort
-// Insertion Sort
-// Merge Sort
-// Quick Sort
-// Heap Sort
-// Counting Sort
-// Radix Sort
-// Bucket Sort
-// Shell Sort
-// Cocktail Shaker Sort (Bidirectional Bubble Sort)
-// Comb Sort
-// Gnome Sort
-// Odd-Even Sort
-// Cycle Sort
-// Pancake Sort
-// Stooge Sort
-// Bogosort (Permutation Sort)
-// Batcher's Odd-Even Mergesort
-// Bitonic Sort
-// Patience Sorting
-// Bead Sort (Gravity Sort)
-// BogoSort (Stupid Sort)
-// Brick Sort
-// Binary Tree Sort
-// Burst Sort
-// Circle Sort
-// Coctail Sort
-// Flash Sort
-// Library Sort
-// TimSort
-// Strand Sort
-// Shear Sort
-// Smooth Sort
-// Spreadsort
-// Spaghetti Sort
-// Introsort
-// In-Place Merge Sort
-// Tournament Sort
-// Optimized Gnome Sort
-// Block Sort
-// Cube Sort
-// American Flag Sort
 
 
 // Library Implementations:
