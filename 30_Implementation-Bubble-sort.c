@@ -41,14 +41,16 @@ void main()
 // ==> methode 2
 #include<stdio.h>
  
-void printArray(int* A, int n){
+// void printArray(int* A, int n){
+void printArray(int A[], int n){
     for (int i = 0; i < n; i++)
     {
         printf("%d ", A[i]);
     }
     printf("\n");
 }
-void bubbleSort(int *A, int n){
+// void bubbleSort(int *A, int n){
+void bubbleSort(int A[], int n){
     int temp;
     int isSorted = 0;
     for (int i = 0; i < n-1; i++) // For number of pass
