@@ -65,7 +65,8 @@ void bubbleSort(int *A, int n){
     } 
 }
  
-void bubbleSortAdaptive(int *A, int n){
+// void bubbleSortAdaptive(int *A, int n){
+void bubbleSortAdaptive(int A[], int n){
     int temp;
     int isSorted = 0;
     for (int i = 0; i < n-1; i++) // For number of pass
