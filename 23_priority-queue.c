@@ -15,3 +15,18 @@
 // void delete(int i): It deletes the element from a priority queue at a given index.
 // int get_Max(): It returns the element which is having the highest priority, and we know that in max heap, the root node contains the element which has the largest value, and highest priority.
 // int get_Min(): It returns the element which is having the minimum priority, and we know that in max heap, the last node contains the element which has the smallest value, and lowest priority.
+
+// Operations of a Priority Queue:
+// 1) Insertion in a Priority Queue
+// 2) Deletion in a Priority Queue  
+// 3) Peek in a Priority Queue
+
+// Types of Priority Queue:
+// 1) Ascending Order Priority Queue
+// 2) Descending order Priority Queue 
+
+// How to Implement Priority Queue? 
+// 1) Arrays
+// 2) Linked list
+// 3) Heap data structure
+// 4) Binary search tree
