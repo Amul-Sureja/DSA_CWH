@@ -44,3 +44,13 @@ Types of Binary Tree:
 
 // 7. Interval Tree
 // 8. 2-3-4 Tree
+
+//=> representation of trees:
+// 1] array representation
+// 2] linked represaentation
+// Node-based Representation: This is the most common representation used in programming. Each node in the tree is represented as an object or struct, containing a value and references/pointers to its child nodes (e.g., left and right pointers in a binary tree).
+// Array-based Representation: Trees can also be represented using arrays or lists. In this representation, the tree is stored in a contiguous block of memory, with each index corresponding to a node in the tree. The parent-child relationships are determined by the indices.
+// Adjacency List Representation: This representation is commonly used in graph theory and can be applied to trees as well. Each node in the tree has a list of its adjacent nodes (i.e., children).
+// Parenthesis or Bracket Notation: This is a concise and often human-readable way of representing trees. Each node is enclosed within parentheses, with its children listed inside.
+// Level-order Traversal: In this representation, the nodes of the tree are listed in level-order traversal (i.e., from left to right, level by level). This representation is often used for serialization and deserialization of trees.
+// Graphical or Visual Representation: This type of representation is used for conceptual understanding or visualization purposes. Trees can be represented graphically using various diagrams, such as hierarchical diagrams, tree plots, or tree structures in software tools like Visio or draw.io.
