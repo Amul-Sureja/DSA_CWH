@@ -4,7 +4,6 @@
 // We will create the priority queue by using the list given below in which INFO list contains the data elements, PRN list contains the priority numbers of each data element available in the INFO list, and LINK basically contains the address of the next node.
 
 // functions:
-
 // int parent(int i): This function returns the index of the parent node of a child node, i.e., i.
 // int left_child(int i): This function returns the index of the left child of a given index, i.e., i.
 // int right_child(int i): This function returns the index of the right child of a given index, i.e., i.
