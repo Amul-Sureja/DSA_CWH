@@ -1,3 +1,9 @@
+// three cases in mind:
+
+// The node is a leaf node.
+// The node is a non-leaf node.
+// The node is the root node.
+
 #include <stdio.h>
 #include <malloc.h>
 
