@@ -2,7 +2,7 @@
 
 // The node is a leaf node.
 // The node is a non-leaf node.
-// The node is the root node.
+// The node is the root node and node between BST.
 
 #include <stdio.h>
 #include <malloc.h>
