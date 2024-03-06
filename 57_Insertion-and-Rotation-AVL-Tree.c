@@ -4,6 +4,12 @@
 // L R rotation : Inserted node is in the right subtree of left subtree of A.
 // R L rotation : Inserted node is in the left subtree of right subtree of A.
 
+// balancing a avl tree after insertion?
+// 1] for a left-left insertion - right rotate once wrt the first imbalanced Node.
+// 2] for a right-roght insertion - left rotate once wrt the first imbalanced node.
+// 3] for a left-right insertion - left rotate once and then right rotate once
+// 4] for a right-left insertion - right rotate once and then left rotate once
+
 // C program to insert a node in AVL tree
 #include <stdio.h>
 #include <stdlib.h>
